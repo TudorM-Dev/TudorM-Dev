@@ -15,7 +15,6 @@ Currently looking for a **software internship / junior role** in Bucharest (or r
 | [**RecordingStudio BookingEngine**](https://github.com/TudorM-Dev/RecordingStudio.BookingEngine) | Clean-architecture booking backend with schedule/availability validation and live slot updates | .NET 10 · EF Core · SignalR · xUnit |
 | [**LexCopilot**](https://github.com/TudorM-Dev/LegalDocs.VectorSearch.AiService) | Local RAG engine for legal documents — 100% on-device, zero data leakage | C# · WPF · Semantic Kernel · Ollama |
 | [**SmartifyBot**](https://github.com/TudorM-Dev/InfoEducatie2024_SmartifyBot_Repository) | 6-DOF robotic arm with computer vision, voice control & swappable tool heads — *1st place, Infoeducație 2024* | Python · OpenCV · C++ (Teensy/Arduino) |
-| [**SortifyBot**](https://github.com/TudorM-Dev/SmartifyBot_V2) | Autonomous SCARA arm that detects & sorts PET bottles with YOLO vision + Unity digital twin | Python · Arduino · Unity |
 
 ## 🛠 Stack
 
