@@ -22,7 +22,7 @@ Currently looking for a **software internship / junior role** in Bucharest (or r
 
 ## 🌱 Beyond code
 
-Team manager of **SmartCluster Robotics** since 2022, robotics mentor for high-school teams at CN "Ferdinand I" Bacău, and 1,000+ hours of volunteering with the Don Bosco Foundation.
+Robotics mentor for high-school teams at CN "Ferdinand I" Bacău. Previously team manager of SmartCluster Robotics (2022–2023) and 1,000+ hours of volunteering with the Don Bosco Foundation.
 
 ## 📫 Contact
 
