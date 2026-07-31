@@ -1,4 +1,4 @@
-# Tudor Mutică
+# TUDOR MUTICA
 
 **I build backends in C#/.NET and full-stack apps in TypeScript, most of them with an LLM somewhere in the loop.**
 
