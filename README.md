@@ -1,11 +1,11 @@
-# TUDOR MUTICA
+# Tudor Mutică
 
-**I build backends in C#/.NET and full-stack apps in TypeScript, most of them with an LLM somewhere in the loop.**
+**I build backends in C#/.NET and full-stack apps in TypeScript, two of them with an LLM in the loop.**
 
 [![HelpMate live demo](https://img.shields.io/badge/Open_the_HelpMate_demo-2ea043?style=for-the-badge)](https://helpmate-interview-coach-g2bgbnaua5cyd5cb.germanywestcentral-01.azurewebsites.net)
 [![TrackRecord live demo](https://img.shields.io/badge/Open_the_TrackRecord_demo-2ea043?style=for-the-badge)](https://trackrecord-dgggbvhmdyfcexdw.germanywestcentral-01.azurewebsites.net/)
 
-🟢 **Available full-time in Bucharest**, on-site or hybrid, for a software internship or a junior role. My timetable at Politehnica is fixed and leaves the working week open.
+🟢 **Available full-time in Bucharest**, on-site, hybrid or remote, for a software internship or a junior role. My timetable at Politehnica is fixed and leaves the working week open.
 
 📫 **tudormutica21@gmail.com** · [LinkedIn](https://www.linkedin.com/in/tudor-mutica)
 
